@@ -1,6 +1,6 @@
 using System;
 
-namespace Asistencia.Models
+namespace ProyectoTomaAsistencia.Models
 {
     public class ErrorViewModel
     {
